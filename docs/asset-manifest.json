@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-user-management/static/css/main.e22f0fbc.css",
+    "main.js": "/react-user-management/static/js/main.d6969574.js",
+    "static/js/808.6314eb72.chunk.js": "/react-user-management/static/js/808.6314eb72.chunk.js",
+    "index.html": "/react-user-management/index.html",
+    "main.e22f0fbc.css.map": "/react-user-management/static/css/main.e22f0fbc.css.map",
+    "main.d6969574.js.map": "/react-user-management/static/js/main.d6969574.js.map",
+    "808.6314eb72.chunk.js.map": "/react-user-management/static/js/808.6314eb72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22f0fbc.css",
+    "static/js/main.d6969574.js"
+  ]
+}
